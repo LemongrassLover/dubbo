@@ -28,7 +28,7 @@ import org.springframework.context.annotation.PropertySource;
 public class Application {
     /**
      * In order to make sure multicast registry works, need to specify '-Djava.net.preferIPv4Stack=true' before
-     * launch the application
+     * launch the application111111
      */
     public static void main(String[] args) {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ConsumerConfiguration.class);
