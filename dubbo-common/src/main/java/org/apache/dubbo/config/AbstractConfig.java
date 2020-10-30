@@ -48,6 +48,7 @@ import static org.apache.dubbo.common.utils.ReflectUtils.findMethodByMethodSigna
 
 /**
  * Utility methods and public methods for parsing configuration
+ * 主要提供配置解析和校验相关的方法
  *
  * @export
  */
